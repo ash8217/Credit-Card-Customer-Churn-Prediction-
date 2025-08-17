@@ -126,7 +126,7 @@ Result: Project provides **significant financial value**.
 - Git  
 
 ### Steps  
-```bash
+
 # Clone repository  
 git clone https://github.com/allmeidaapedro/Churn-Prediction-Credit-Card.git  
 
